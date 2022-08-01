@@ -1,6 +1,6 @@
 # Crop Recommendation System Using Soil and Weather Data
 
-A machine learning system which makes crop recommendations based on soil and weather data.
+A machine learning system that makes crop recommendations based on soil and weather data.
 
 ## Dataset
 
